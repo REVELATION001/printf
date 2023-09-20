@@ -128,7 +128,7 @@ int write_number(int is_negative, int ind, char buffer[],
 				length, padd, extra_ch));
 }
 	/**
-	 *  * write_num - Write a number using a bufffer
+	 * * write_num - Write a number using a buffer
 	 *   * @ind: Index at which the number starts on the buffer
 	 *    * @buffer: Buffer
 	 *     * @flags: Flags
